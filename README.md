@@ -39,8 +39,8 @@ The system is divided into three primary components:
 ## 👨‍💻 Authors & Developers
 This project was developed in partial fulfillment of the requirements for the degree of **Bachelor of Science in Information Technology (BSIT)** at Cavite State University - Tanza Campus (Class of 2026).
 
-* **Lance Icy L. Antonio** 
-* **J C Boy L. Ferrer**
+* **Lance Icy L. Antonio** https://github.com/aishikichu
+* **J C Boy L. Ferrer** https://github.com/marshmellie
 * **Craymer P. Ventura**
 
 ## 🙏 Acknowledgements
