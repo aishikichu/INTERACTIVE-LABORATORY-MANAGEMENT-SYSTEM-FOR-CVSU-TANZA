@@ -1,0 +1,122 @@
+{
+    "quiz_number": 10,
+    "quiz_title": "10",
+    "time_limit": 10,
+    "subject": "DCIT 013",
+    "instructor": "Angel Duales",
+    "section": "BSIT 1-1",
+    "timestamp": "2026-02-25 22:00:55",
+    "status": "Accepting",
+    "questions": [
+        {
+            "type": "MCQ",
+            "question": "Which of the following is an input device?",
+            "choices": [
+                "A. Monitor",
+                "B. Printer",
+                "C. Keyboard",
+                "D. Speaker"
+            ],
+            "answer": "A"
+        },
+        {
+            "type": "MCQ",
+            "question": "What does CPU stand for?",
+            "choices": [
+                "A. Central Program Unit",
+                "B. Central Processing Unit",
+                "C. Computer Personal Unit",
+                "D. Central Power Unit"
+            ],
+            "answer": "B"
+        },
+        {
+            "type": "MCQ",
+            "question": "Which one is system software?",
+            "choices": [
+                "A. Microsoft Word",
+                "B. Google Chrome",
+                "C. Windows",
+                "D. Adobe Photoshop"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MCQ",
+            "question": "Which device is used to display output?",
+            "choices": [
+                "A. Mouse",
+                "B. Keyboard",
+                "C. Scanner",
+                "D. Monitor"
+            ],
+            "answer": "D"
+        },
+        {
+            "type": "MCQ",
+            "question": "What is the full form of RAM?",
+            "choices": [
+                "A. Random Access Memory",
+                "B. Read Access Memory",
+                "C. Run Access Memory",
+                "D. Rapid Access Machine"
+            ],
+            "answer": "A"
+        },
+        {
+            "type": "MCQ",
+            "question": "Which of the following stores data permanently?",
+            "choices": [
+                "A. RAM",
+                "B. Cache",
+                "C. Hard Disk",
+                "D. Register"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MCQ",
+            "question": "Which key is used to delete text to the left of the cursor?",
+            "choices": [
+                "A. Enter",
+                "B. Shift",
+                "C. Backspace",
+                "D. Control"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MCQ",
+            "question": "What does WWW stand for?",
+            "choices": [
+                "A. World Wide Web",
+                "B. World Web Wide",
+                "C. Wide World Web",
+                "D. Web World Wide"
+            ],
+            "answer": "A"
+        },
+        {
+            "type": "MCQ",
+            "question": "Which file extension is used for Microsoft Word?",
+            "choices": [
+                "A. .jpg",
+                "B. .mp3",
+                "C. .docx",
+                "D. .exe"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MCQ",
+            "question": "Which software is used to protect a computer from viruses?",
+            "choices": [
+                "A. Compiler",
+                "B. Antivirus",
+                "C. Browser",
+                "D. Operating System"
+            ],
+            "answer": "B"
+        }
+    ]
+}

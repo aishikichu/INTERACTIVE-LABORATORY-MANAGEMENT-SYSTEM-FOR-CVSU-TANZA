@@ -1,0 +1,72 @@
+Time Limit: 30 minutes
+Quiz #: 1
+
+Question 1: What is the capital of France?
+A. Berlin
+B. Madrid
+C. Paris
+D. Rome
+Correct Answer: C
+
+Question 2: What is 2 + 2?
+A. 3
+B. 4
+C. 5
+D. 6
+Correct Answer: B
+
+Question 3: Do you know yes king?
+A. ambasing
+B. perrel
+C. jaquavious
+D. free2bme
+Correct Answer: D
+
+Question 4: What is 7 + 2?
+A. 3
+B. 9
+C. 5
+D. 6
+Correct Answer: B
+
+Question 5: What is the difference of black and white?
+A. color
+B. spelling
+C. both
+D. all of the above
+Correct Answer: B
+
+Question 6: What is 10 - 2?
+A. 8
+B. 7
+C. 6
+D. 5
+Correct Answer: B
+
+Question 7: Where is CVSU-TC Located?
+A. Tanza
+B. Bulacan
+C. Tandang 
+D. Mexico
+Correct Answer: B
+
+Question 8: What is  33 + 77?
+A. 100
+B. 110
+C. 1337
+D. 420
+Correct Answer: B
+
+Question 9: Why you should be a human?
+A. to subscribe to my channel
+B. to follow me on my tiktok
+C. to like my facebook page
+D. to be born
+Correct Answer: B
+
+Question 10: What does break in python do?
+A. to end the def
+B. to exit the program
+C. Shutdown the computer
+D. Update the computer
+Correct Answer: B

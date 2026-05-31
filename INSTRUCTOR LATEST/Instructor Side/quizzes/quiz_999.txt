@@ -1,0 +1,72 @@
+Time Limit: 30 minutes
+Quiz #: 1
+
+Question 1: What is the output of `print(2 ** 3)` in Python?
+A. 9  
+B. 6  
+C. 9  
+D. 5  
+Correct Answer: A
+
+Question 2: What is 2 + 2?
+A. 3
+B. 4
+C. 5
+D. 6
+Correct Answer: B
+
+Question 3: Which data type is used to store True or False in Python?
+A. int  
+B. float  
+C. bool  
+D. str  
+Correct Answer: C
+
+Question 4: What is 7 - 2?
+A. 3
+B. 9
+C. 0
+D. 5
+Correct Answer: D
+
+Question 5: What is Apple?
+A. Fruit
+B. Phone
+C. Color
+D. Name
+Correct Answer: A
+
+Question 6: What is 5 x 2?
+A. 69
+B. 10
+C. 727
+D. 5
+Correct Answer: B
+
+Question 7: Where is CVSU-TC Located?
+A. Manila
+B. Bulacan
+C. Tanza 
+D. Mexico
+Correct Answer: C
+
+Question 8: What is  33 + 77?
+A. 100
+B. 420
+C. 1337
+D. 110
+Correct Answer: D
+
+Question 9: Why you should be a student?
+A. to learn and study to be a graduate on school
+B. to follow me on my tiktok
+C. to like my facebook page
+D. to subscribe to my channel
+Correct Answer: A
+
+Question 10: What does break in python do?
+A. to end the def
+B. to exit the program
+C. Shutdown the computer
+D. Update the computer
+Correct Answer: B

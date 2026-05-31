@@ -1,0 +1,114 @@
+{
+    "Student Name": [
+        {
+            "quiz_number": 1,
+            "subject": "DCIT 66",
+            "score": "20.00%",
+            "date": "2025-03-04 02:59:27"
+        },
+        {
+            "quiz_number": 1,
+            "subject": "CC",
+            "score": "0.00%",
+            "date": "2025-03-10 02:38:43"
+        },
+        {
+            "quiz_number": 1,
+            "subject": "CC",
+            "score": "0.00%",
+            "date": "2025-03-10 02:49:01"
+        },
+        {
+            "quiz_number": 1,
+            "subject": "CC",
+            "score": "0.00%",
+            "date": "2025-03-10 03:06:14"
+        },
+        {
+            "quiz_number": 1,
+            "subject": "CC",
+            "score": "0.00%",
+            "date": "2025-03-10 03:10:08"
+        },
+        {
+            "quiz_number": 1,
+            "subject": "CC",
+            "score": "0.00%",
+            "date": "2025-03-10 03:10:38"
+        },
+        {
+            "quiz_number": 1,
+            "subject": "CC",
+            "score": "0.00%",
+            "date": "2025-03-10 20:35:33"
+        },
+        {
+            "quiz_number": 2,
+            "subject": "1",
+            "score": "0.00%",
+            "date": "2025-03-10 20:35:50"
+        },
+        {
+            "quiz_number": 1,
+            "subject": "aaa",
+            "score": "0.00%",
+            "date": "2025-03-10 21:32:34"
+        },
+        {
+            "quiz_number": 1,
+            "subject": "aaa",
+            "score": "0.00%",
+            "date": "2025-03-11 00:55:00"
+        },
+        {
+            "quiz_number": 3,
+            "subject": "ITEC 115",
+            "score": "10.00%",
+            "date": "2025-03-17 03:05:29"
+        },
+        {
+            "quiz_number": 1,
+            "subject": "ITEC 115",
+            "score": "10.00%",
+            "date": "2025-03-17 15:51:33"
+        },
+        {
+            "quiz_number": 1,
+            "subject": "ITEC 115",
+            "score": "10.00%",
+            "date": "2025-03-17 15:55:19"
+        },
+        {
+            "quiz_number": 1,
+            "subject": "ITEC 115",
+            "score": "10.00%",
+            "date": "2025-03-17 16:01:25"
+        },
+        {
+            "quiz_number": 5,
+            "subject": "ITEC 115",
+            "score": "10.00%",
+            "date": "2025-03-17 16:08:52"
+        },
+        {
+            "quiz_number": 1,
+            "subject": "ITEC 115",
+            "score": "20.00%",
+            "date": "2025-03-17 18:33:10"
+        }
+    ],
+    "J C Ferrer": [
+        {
+            "quiz_number": 1,
+            "subject": "ITEC 115",
+            "score": "10.00%",
+            "date": "2025-03-18 01:39:53"
+        },
+        {
+            "quiz_number": 5,
+            "subject": "ITEC 115",
+            "score": "10.00%",
+            "date": "2025-03-18 01:40:26"
+        }
+    ]
+}

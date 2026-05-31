@@ -1,0 +1,111 @@
+{
+    "quiz_number": 999,
+    "subject": "DCIT 013",
+    "instructor": "Angel Duales",
+    "section": "BSIT 1-1",
+    "file_path": "quizzes/quiz_999.txt",
+    "timestamp": "2025-07-12 18:51:28",
+    "status": "Accepting",
+    "questions": [
+        {
+            "question": "What is the output of `print(2 ** 3)` in Python?",
+            "choices": [
+                "A. 9",
+                "B. 6",
+                "C. 9",
+                "D. 5"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "What is 2 + 2?",
+            "choices": [
+                "A. 3",
+                "B. 4",
+                "C. 5",
+                "D. 6"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "Which data type is used to store True or False in Python?",
+            "choices": [
+                "A. int",
+                "B. float",
+                "C. bool",
+                "D. str"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "What is 7 - 2?",
+            "choices": [
+                "A. 3",
+                "B. 9",
+                "C. 0",
+                "D. 5"
+            ],
+            "answer": "D"
+        },
+        {
+            "question": "What is Apple?",
+            "choices": [
+                "A. Fruit",
+                "B. Phone",
+                "C. Color",
+                "D. Name"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "What is 5 x 2?",
+            "choices": [
+                "A. 69",
+                "B. 10",
+                "C. 727",
+                "D. 5"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "Where is CVSU-TC Located?",
+            "choices": [
+                "A. Manila",
+                "B. Bulacan",
+                "C. Tanza",
+                "D. Mexico"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "What is  33 + 77?",
+            "choices": [
+                "A. 100",
+                "B. 420",
+                "C. 1337",
+                "D. 110"
+            ],
+            "answer": "D"
+        },
+        {
+            "question": "Why you should be a student?",
+            "choices": [
+                "A. to learn and study to be a graduate on school",
+                "B. to follow me on my tiktok",
+                "C. to like my facebook page",
+                "D. to subscribe to my channel"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "What does break in python do?",
+            "choices": [
+                "A. to end the def",
+                "B. to exit the program",
+                "C. Shutdown the computer",
+                "D. Update the computer"
+            ],
+            "answer": "B"
+        }
+    ]
+}

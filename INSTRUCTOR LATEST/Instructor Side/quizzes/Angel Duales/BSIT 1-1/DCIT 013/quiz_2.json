@@ -1,0 +1,147 @@
+{
+    "quiz_number": 2,
+    "quiz_title": "with identification",
+    "time_limit": 10,
+    "subject": "DCIT 013",
+    "instructor": "Angel Duales",
+    "section": "BSIT 1-1",
+    "timestamp": "2026-01-20 18:17:14",
+    "status": "Accepting",
+    "questions": [
+        {
+            "type": "MCQ",
+            "question": "What does CPU stand for?",
+            "choices": [
+                "A. Central Processing Unit",
+                "B. Computer Power Unit",
+                "C. Control Program Utility",
+                "D. Central Program Unit"
+            ],
+            "answer": "A"
+        },
+        {
+            "type": "MCQ",
+            "question": "Which device is used to input text into a computer?",
+            "choices": [
+                "A. Monitor",
+                "B. Printer",
+                "C. Keyboard",
+                "D. Speaker"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MCQ",
+            "question": "Which of the following is an output device?",
+            "choices": [
+                "A. Mouse",
+                "B. Keyboard",
+                "C. Monitor",
+                "D. Scanner"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MCQ",
+            "question": "What part of the computer stores data temporarily?",
+            "choices": [
+                "A. Hard Disk",
+                "B. RAM",
+                "C. ROM",
+                "D. Flash Drive"
+            ],
+            "answer": "B"
+        },
+        {
+            "type": "MCQ",
+            "question": "Which software is used to browse the internet?",
+            "choices": [
+                "A. Operating System",
+                "B. Web Browser",
+                "C. Antivirus",
+                "D. Compiler"
+            ],
+            "answer": "B"
+        },
+        {
+            "type": "MCQ",
+            "question": "What does IT stand for?",
+            "choices": [
+                "A. Internet Technology",
+                "B. Information Technology",
+                "C. Intelligent Tool",
+                "D. Internal Tech"
+            ],
+            "answer": "B"
+        },
+        {
+            "type": "MCQ",
+            "question": "Which of the following is an operating system?",
+            "choices": [
+                "A. Microsoft Word",
+                "B. Google Chrome",
+                "C. Windows",
+                "D. Excel"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "MCQ",
+            "question": "What device is used to print documents?",
+            "choices": [
+                "A. Scanner",
+                "B. Printer",
+                "C. Monitor",
+                "D. Keyboard"
+            ],
+            "answer": "B"
+        },
+        {
+            "type": "MCQ",
+            "question": "Which storage device is portable?",
+            "choices": [
+                "A. RAM",
+                "B. ROM",
+                "C. Hard Disk",
+                "D. USB Flash Drive"
+            ],
+            "answer": "D"
+        },
+        {
+            "type": "MCQ",
+            "question": "Which key is used to create space between words?",
+            "choices": [
+                "A. Enter",
+                "B. Shift",
+                "C. Spacebar",
+                "D. Backspace"
+            ],
+            "answer": "C"
+        },
+        {
+            "type": "ID",
+            "question": "What do you call the main physical parts of a computer?",
+            "answer": "Hardware"
+        },
+        {
+            "type": "ID",
+            "question": "What type of software manages computer resources?",
+            "answer": "Operating System"
+        },
+        {
+            "type": "ID",
+            "question": "What device is used to move the cursor on the screen?",
+            "answer": "Mouse"
+        },
+        {
+            "type": "ID",
+            "question": "What program is used to type documents?",
+            "answer": "Word Processor"
+        },
+        {
+            "type": "ID",
+            "question": "What is the brain of the computer?",
+            "answer": "CPU"
+        }
+    ]
+}
