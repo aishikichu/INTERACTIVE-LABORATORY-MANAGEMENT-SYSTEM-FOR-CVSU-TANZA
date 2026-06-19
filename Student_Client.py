@@ -1424,7 +1424,8 @@ def show_attendance_logs():
             window.after(0, update_ui)
 
         except Exception as e:
-            window.after(0, lambda: status_lbl.config(text=f"⚠ Failed to load logs: {e}"))
+            err_msg = str(e)
+            window.after(0, lambda msg=err_msg: status_lbl.config(text=f"⚠ Failed to load logs: {msg}"))
 
     status_lbl.config(text="Loading attendance logs…")
     threading.Thread(target=fetch_logs, daemon=True).start()
